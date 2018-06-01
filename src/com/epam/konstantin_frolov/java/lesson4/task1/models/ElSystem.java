@@ -2,7 +2,7 @@ package com.epam.konstantin_frolov.java.lesson4.task1.models;
 
 import com.epam.konstantin_frolov.java.lesson4.task1.exceptions.NoPowerException;
 import com.epam.konstantin_frolov.java.lesson4.task1.exceptions.NoWeightException;
-import com.epam.konstantin_frolov.java.lesson4.interfaces.ESystem;
+import com.epam.konstantin_frolov.java.lesson4.task1.interfaces.ESystem;
 
 import java.util.Arrays;
 
